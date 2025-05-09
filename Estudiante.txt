@@ -1,0 +1,5 @@
+Evaluación: Corto 2 DAW135 GT02
+Postgres, JPA y Spring Boot 
+
+Estudiante: Martín Alejandro Amaya Castro
+Carné: AC12066
